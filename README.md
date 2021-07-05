@@ -2,6 +2,7 @@
 
 <p align='center'>
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 <p align='center'>
    📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>maratazizov@gmail.com</a>
 </p>
